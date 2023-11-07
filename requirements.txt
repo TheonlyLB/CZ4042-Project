@@ -1,0 +1,8 @@
+poutyne
+matplotlib
+numpy
+pandas
+wget
+opencv-python
+torch
+torchvision
